@@ -1,10 +1,14 @@
+
 # RBAC UI - Role-Based Access Control User Interface
 
 This project is a React-based user interface for managing Role-Based Access Control (RBAC) in a web application. It provides a comprehensive set of features for user and role management, along with activity logging and authentication.
 
 ## Demo
 
-You can view a live demo of this project at: 
+You can view a live demo of this project at: [https://bala-rbac-ui.netlify.app/]()
+
+Username : `admin@example.com`
+Password : `password`
 
 ## Tech Stack
 
